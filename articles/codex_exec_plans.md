@@ -16,12 +16,7 @@ Here's an `AGENTS.md` section instructing an agent about when to use a plan:
 # ExecPlans
 
 When writing complex features or significant refactors, use an ExecPlan (as described in .agent/PLANS.md) from design to implementation.
-```
-
-## `PLANS.md`
-
-Below is the entire document. The prompting in this document was carefully chosen to provide significant amounts of feedback to users and to guide the model to implement precisely what a plan specifies. Users may find that they benefit from customizing the file to meet their needs, or to add or remove required sections.
-
+nope
 ~~~md
 # Codex Execution Plans (ExecPlans):
 
